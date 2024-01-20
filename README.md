@@ -3,6 +3,8 @@
 I am currently a student at the University at Buffalo pursuing a Bachelor of Science in Computer Science. Here's some info about me 
 
 Projects:
+
+
 Movie and Song Rating Analysis | Java - Designed and optimized a proprietary rating system using Object-Oriented Programming principles to process
 extensive CSV datasets accurately and efficiently, covering tens of thousands of songs and movies
 
